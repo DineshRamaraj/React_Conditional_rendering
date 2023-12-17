@@ -9,6 +9,8 @@ const Welcome = props => {
   )
 }
 
+// React DefaultProps
+
 Welcome.defaultProps = {
   name: 'Dinesh',
   greeting: 'Vanakkam',
